@@ -93,3 +93,12 @@ section.pv button:last-child {
     
 }
 
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: auto;
+}
+
+

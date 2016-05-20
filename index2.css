@@ -31,3 +31,11 @@ body {
     text-align: right;
     
 }
+
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: auto;
+}
