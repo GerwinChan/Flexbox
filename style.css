@@ -42,7 +42,7 @@ header h1 {
 }
 
 
-section.pv {
+section.Flex {
  padding: 2em;
     min-width: 15em;
     margin: .5em;
@@ -64,24 +64,24 @@ section.pv {
             flex-direction: column;
 }
 
-section.pv img {
+section.Flex img {
  width: 100%;
     height: auto;
     
     
 }
 
-section.pv:hover {
+section.Flex:hover {
  background-color: #06f;
     
 }
 
-section.pv p:nth-last-child(2) {
+section.Flex p:nth-last-child(2) {
     
  padding-bottom: 2em;   
     
 }
-section.pv button:last-child {
+section.Flex button:last-child {
   width: 10em;
     padding: .5em;
     background-color: orange;

@@ -58,7 +58,7 @@ footer:after {
 }
 
 
-@media screen and(min-width: 26em) {
+@media screen and (min-width: 26em) {
     
     main {
       flex-direction: row;
@@ -81,7 +81,7 @@ footer:after {
 }
 
 
-@media screen and(min-width: 36em) {
+@media screen and (min-width: 36em) {
     
     main {
      flex-wrap: nowrap;   
